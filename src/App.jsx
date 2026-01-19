@@ -9,7 +9,7 @@ function App() {
   return (
     <>
   <h1> Learn React Js First App</h1>
-  <h2>Hello Bhairav How are you</h2>
+  <h2>Hello Bhairav How are you, Now your first code now deployed.</h2>
   </>
 )
 }
