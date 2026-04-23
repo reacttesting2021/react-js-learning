@@ -3,7 +3,7 @@ function Tailwindcss() {
 
   return (
     <>
-      <h1> Implemented Tailwind CSS</h1>
+      <h1> Implemented Tailwind CSS.</h1>
     </>
 )
 }
